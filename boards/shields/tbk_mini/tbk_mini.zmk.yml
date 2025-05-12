@@ -1,0 +1,15 @@
+file_format: "1"
+id: tbk_mini
+name: TBK_Mini
+type: shield
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - underglow
+  - studio
+siblings:
+  - tbk_mini_left
+  - tbk_mini_right
+  - tbk_mini_dongle

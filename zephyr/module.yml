@@ -1,3 +1,4 @@
+name: zmk-keyboard-tbk-mini-dongle
 build:
   settings:
     board_root: .

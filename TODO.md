@@ -1,0 +1,1 @@
+- [ ] set keymap to control macro pad.
