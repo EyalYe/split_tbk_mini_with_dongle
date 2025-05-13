@@ -10,7 +10,6 @@
 
 &led_strip { chain-length = <27>; };
 
-/
 / {
     macros {
         screenshot_mac_4: screenshot_mac_4 {
